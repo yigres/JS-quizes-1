@@ -1,1 +1,1 @@
-# Quiz on JS
+# quiz by geometry
